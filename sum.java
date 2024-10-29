@@ -4,6 +4,7 @@ public class sum
 
     public static void main(String args[])
     {
+      System.out.println("the sum these numbers is: ");
       int num1 = 6;
       int num2 = 5;
       int num3 = 3;
