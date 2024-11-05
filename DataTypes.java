@@ -25,6 +25,10 @@ public class DataTypes {
          System.out.println(i);
          System.out.println(++i);
          System.out.println(i);
+         int u = 7;
+         System.out.println( ++u * 8);
+         char ch = 'a';
+         System.out.println(++ch);
 
     }
 }
